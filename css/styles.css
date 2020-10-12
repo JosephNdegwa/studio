@@ -1,6 +1,122 @@
+
+
 .centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+        background-image: url('../images/backgrounds/h_img.jpg');
+        text-align: center;
+        color: white;
+        background-position: center center;
+       background-size: cover;
+       padding-top: 10%;
   }
+
+#centered {
+      padding-bottom: 15%;
+      
+  }
+
+#mouse-logo {
+      padding-bottom: 15%;
+  }
+
+.headings {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.container-us {
+      text-align: center;
+      padding-top: 5%;
+      padding-bottom: 5%;
+  }
+
+.service {
+        background-image: url('../images/backgrounds/s_image.jpg');
+        text-align: center;
+        color: white;
+        background-size: cover;
+        background-position: center;
+        padding-top: 10%;
+
+}
+
+
+ 
+#serve-layer {
+    padding-bottom: 10%;
+}
+
+.container-do {
+    text-align: center;
+    padding-top: 40px;
+  
+}
+
+.portfolio h2{
+    text-align: center;
+}
+#design {
+    text-align: center;
+    font-size: 15px;
+}
+
+#portfolio {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+
+#lay,#lay2,#lay3,#lay4,#lay5,#lay6,#lay7,#lay8{
+    display: none;
+    color: white;
+    font-weight: bold;
+    padding-top: 50%;
+    background-color: tan;
+   
+
+
+}
+
+.col-md-3 img{
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+
+.form {
+        background-image: url('../images/backgrounds/c_image.jpg');
+        text-align: center;
+        padding-top: 15%;
+        padding-bottom: 15%;
+        color: white;
+       
+       
+}
+
+.footer {
+    text-align: center;
+    padding-top: 30px;
+   
+}
+input[type=text],input[type=email] {
+    background: transparent;
+    color: white;
+   
+}
+
+
+#message{
+    background: transparent;
+    color: white;
+    margin-left: 25%; 
+    
+}
+.form-control::-webkit-input-placeholder {
+    color: white;
+}

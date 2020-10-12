@@ -8,7 +8,7 @@ This is a landing page for a hypothetical software studio.
 Joseph Ndegwa
 
 ## Setup and insatllation
-- Run `git clone `
+- Run `git clone https://github.com/JosephNdegwa/studio.git`
 - Serve on your browser
 
 ## Technologies used
