@@ -2,7 +2,7 @@
 Landing page
 
 ## Description 
-This is a landing page for a hypothetical software studio.
+This is a landing page for a hypothetical software studio to showcase what their local developers have to offer and also the work they've done in the past. 
 
 ### Author
 Joseph Ndegwa
@@ -20,7 +20,7 @@ Joseph Ndegwa
 * Github
 
 ## Link
-
+* https://josephndegwa.github.io/studio/
 
 ## Contact
 * Kariukindegwa98@gmail.com
